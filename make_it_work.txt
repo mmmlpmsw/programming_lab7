@@ -1,0 +1,11 @@
+~/.bashrc
+export PATH=$PATH:"/d/System/Program Files/Java/jdk1.8.0_211/bin"
+
+
+netsh advfirewall set allprofiles state off
+отклбючение брандмауэра
+
+включение - on instead off
+
+
+
